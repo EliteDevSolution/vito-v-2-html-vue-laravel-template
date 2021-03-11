@@ -1,0 +1,22 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/app.js.map": "/js/app.js.map",
+    "/css/app.css.map": "/css/app.css.map",
+    "/AmCharts.js": "/AmCharts.js",
+    "/AmCharts.js.map": "/AmCharts.js.map",
+    "/ApexChart.js": "/ApexChart.js",
+    "/ApexChart.js.map": "/ApexChart.js.map",
+    "/HighCharts.js": "/HighCharts.js",
+    "/HighCharts.js.map": "/HighCharts.js.map",
+    "/vendors~HighCharts.js": "/vendors~HighCharts.js",
+    "/vendors~HighCharts.js.map": "/vendors~HighCharts.js.map",
+    "/vendors~canvg.js": "/vendors~canvg.js",
+    "/vendors~canvg.js.map": "/vendors~canvg.js.map",
+    "/vendors~pdfmake.js": "/vendors~pdfmake.js",
+    "/vendors~pdfmake.js.map": "/vendors~pdfmake.js.map",
+    "/vendors~xlsx.js": "/vendors~xlsx.js",
+    "/vendors~xlsx.js.map": "/vendors~xlsx.js.map",
+    "/xlsx.js": "/xlsx.js",
+    "/xlsx.js.map": "/xlsx.js.map"
+}
